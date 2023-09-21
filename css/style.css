@@ -1,0 +1,202 @@
+.landing-page {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.landing-page .div {
+    background-color: #ffffff;
+    width: 2151px;
+    height: 1449px;
+    position: relative;
+}
+
+.landing-page .overlap {
+    position: absolute;
+    width: 2151px;
+    height: 137px;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+}
+
+.landing-page .text-wrapper {
+    position: absolute;
+    top: 49px;
+    left: 141px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .navbar {
+    position: absolute;
+    width: 676px;
+    height: 36px;
+    top: 50px;
+    left: 1435px;
+}
+
+.landing-page .text-wrapper-2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-3 {
+    position: absolute;
+    top: 0;
+    left: 190px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-4 {
+    position: absolute;
+    top: 0;
+    left: 367px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .text-wrapper-5 {
+    position: absolute;
+    top: 0;
+    left: 555px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .logo {
+    position: absolute;
+    width: 94px;
+    height: 89px;
+    top: 24px;
+    left: 27px;
+    object-fit: cover;
+}
+
+.landing-page .group {
+    position: absolute;
+    width: 2151px;
+    height: 161px;
+    top: 1288px;
+    left: 0;
+    background-color: #d9d9d9;
+}
+
+.landing-page .group-2 {
+    position: relative;
+    width: 676px;
+    height: 36px;
+    top: 63px;
+    left: 62px;
+}
+
+.landing-page .overlap-wrapper {
+    position: absolute;
+    width: 1014px;
+    height: 909px;
+    top: 232px;
+    left: 571px;
+}
+
+.landing-page .overlap-group {
+    position: relative;
+    width: 1010px;
+    height: 909px;
+    background-color: #d9d9d9;
+}
+
+.landing-page .text-wrapper-6 {
+    position: absolute;
+    top: 351px;
+    left: 439px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .overlap-group-wrapper {
+    position: absolute;
+    width: 197px;
+    height: 54px;
+    top: 758px;
+    left: 407px;
+}
+
+.landing-page .div-wrapper {
+    position: relative;
+    width: 195px;
+    height: 54px;
+    background-color: #000000;
+}
+
+.landing-page .text-wrapper-7 {
+    position: absolute;
+    width: 128px;
+    top: 19px;
+    left: 34px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 14.4px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+}
+
+.landing-page .IMG {
+    position: absolute;
+    width: 312px;
+    height: 250px;
+    top: 63px;
+    left: 349px;
+}
+
+.landing-page .shaina-bio {
+    position: absolute;
+    width: 676px;
+    top: 412px;
+    left: 167px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+}
